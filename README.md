@@ -26,7 +26,3 @@ An AI-powered News Summarizer built using Streamlit, LangChain, Tavily Search AP
 3. LangChain processes the data
 4. Mistral AI summarizes the news
 5. Streamlit displays summarized bullet points
-
-```bash
-git clone <your-repository-link>
-cd <repository-name>
